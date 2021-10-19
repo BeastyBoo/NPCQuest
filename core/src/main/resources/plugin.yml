@@ -1,0 +1,7 @@
+name: NPCQuest
+version: '${project.version}'
+main: com.github.beastyboo.core.NPCQuestPluginImpl
+api-version: 1.17
+authors: [ BeastyBoo ]
+description: NPCQuest plugin
+website: https://github.com/BeastyBoo/NPCQuest
